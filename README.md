@@ -24,15 +24,3 @@ php artisan migrate --seed
 php artisan serve
 ```
 
-## Push to GitHub (one repo per project, or one repo with all five)
-```bash
-git init
-git add .
-git commit -m "Add Laravel CRUD projects"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<repo-name>.git
-git push -u origin main
-```
-
-## Resume "Projects" format
-**Laravel CRUD Projects** | PHP, Laravel, SQLite, Blade, Bootstrap | GitHub: <link>
