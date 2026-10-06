@@ -34,11 +34,5 @@ git remote add origin https://github.com/<your-username>/<repo-name>.git
 git push -u origin main
 ```
 
-## Resume bullets (copy/paste)
-- Built 5 CRUD web applications in PHP/Laravel 12 (Todo, Blog, Contact Book, Expense Tracker, Job Tracker) following MVC architecture.
-- Designed database schemas with Laravel migrations and Eloquent models; seeded sample data with seeders.
-- Implemented server-side validation, route model binding, search, filtering and pagination using resource controllers and Blade templates.
-- Wrote PHPUnit feature tests covering create, validation and delete flows.
-
 ## Resume "Projects" format
 **Laravel CRUD Projects** | PHP, Laravel, SQLite, Blade, Bootstrap | GitHub: <link>
